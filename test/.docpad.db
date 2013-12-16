@@ -1,0 +1,61 @@
+{
+  "generateStarted": "2013-12-16T02:14:06.591Z",
+  "generateEnded": null,
+  "models": [
+    {
+      "fullPath": "c:\\Dev\\Github\\docpad-plugin-escape\\test\\src\\documents\\test1.html",
+      "relativePath": "test1.html",
+      "basename": "test1",
+      "outBasename": "test1",
+      "extension": "html",
+      "outExtension": "html",
+      "extensions": [
+        "html"
+      ],
+      "filename": "test1.html",
+      "fullDirPath": "c:\\Dev\\Github\\docpad-plugin-escape\\test\\src\\documents",
+      "outPath": "c:\\Dev\\Github\\docpad-plugin-escape\\test\\out\\test1.html",
+      "outDirPath": "c:\\Dev\\Github\\docpad-plugin-escape\\test\\out",
+      "outFilename": "test1.html",
+      "relativeOutPath": "test1.html",
+      "relativeDirPath": ".",
+      "relativeOutDirPath": ".",
+      "relativeBase": "test1",
+      "relativeOutBase": "test1",
+      "contentType": "text/html",
+      "outContentType": "text/html",
+      "ctime": "2013-12-15T17:30:02.000Z",
+      "mtime": "2013-12-15T17:41:24.000Z",
+      "rtime": "2013-12-16T02:14:06.850Z",
+      "wtime": "2013-12-16T02:14:06.908Z",
+      "exists": true,
+      "encoding": "utf8",
+      "source": "<escape>\n<h1>Test Heading</h1>\n</escape>\n",
+      "content": "<escape>\n<h1>Test Heading</h1>\n</escape>\n",
+      "tags": null,
+      "render": true,
+      "write": true,
+      "writeSource": false,
+      "dynamic": false,
+      "title": null,
+      "name": "test1.html",
+      "date": "2013-12-15T17:41:24.000Z",
+      "slug": "test1",
+      "url": "/test1.html",
+      "urls": [
+        "/test1.html"
+      ],
+      "ignored": false,
+      "standalone": false,
+      "referencesOthers": false,
+      "header": null,
+      "parser": null,
+      "body": "<escape>\n<h1>Test Heading</h1>\n</escape>\n",
+      "rendered": true,
+      "contentRendered": "&lt;h1&gt;Test Heading&lt;/h1&gt;\n",
+      "contentRenderedWithoutLayouts": "&lt;h1&gt;Test Heading&lt;/h1&gt;\n",
+      "renderSingleExtensions": false,
+      "meta": {}
+    }
+  ]
+}
